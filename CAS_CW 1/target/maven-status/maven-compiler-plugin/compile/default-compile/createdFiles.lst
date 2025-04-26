@@ -1,0 +1,12 @@
+com\mycompany\cas_cw\BookstoreApplication.class
+com\mycompany\cas_cw\resources\TestResource.class
+com\mycompany\cas_cw\model\Book.class
+com\mycompany\cas_cw\resources\BookResource.class
+com\mycompany\cas_cw\exceptions\BookNotFoundExceptionMapper.class
+com\mycompany\cas_cw\model\Author.class
+com\mycompany\cas_cw\exceptions\InvalidInputExceptionMapper.class
+com\mycompany\cas_cw\exceptions\InvalidInputException.class
+com\mycompany\cas_cw\storage\DataStore.class
+com\mycompany\cas_cw\exceptions\BookNotFoundException.class
+com\mycompany\cas_cw\exceptions\BookNotFoundExceptionMapper$ErrorResponse.class
+com\mycompany\cas_cw\exceptions\InvalidInputExceptionMapper$ErrorResponse.class
