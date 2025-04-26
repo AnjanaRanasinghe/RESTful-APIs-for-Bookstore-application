@@ -9,3 +9,5 @@ scalable backend API to manage various entities like books, authors, customers, 
 carts, and orders. You'll learn how to structure your application using resource classes, 
 handle different HTTP methods, process requests and responses, and implement proper 
 error handling. 
+
+---
