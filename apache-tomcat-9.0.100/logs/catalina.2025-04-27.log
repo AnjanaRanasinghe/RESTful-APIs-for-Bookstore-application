@@ -1,0 +1,55 @@
+27-Apr-2025 15:43:20.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.100
+27-Apr-2025 15:43:20.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 13 2025 11:29:56 UTC
+27-Apr-2025 15:43:20.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.100.0
+27-Apr-2025 15:43:20.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+27-Apr-2025 15:43:20.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Apr-2025 15:43:20.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Apr-2025 15:43:20.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+27-Apr-2025 15:43:20.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS-58
+27-Apr-2025 15:43:20.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Apr-2025 15:43:20.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\GUI_Netbeans\apache-tomcat-9.0.100
+27-Apr-2025 15:43:20.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\GUI_Netbeans\apache-tomcat-9.0.100
+27-Apr-2025 15:43:20.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Apr-2025 15:43:20.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Apr-2025 15:43:20.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Apr-2025 15:43:20.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Apr-2025 15:43:20.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Apr-2025 15:43:20.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\GUI_Netbeans\apache-tomcat-9.0.100\conf\logging.properties
+27-Apr-2025 15:43:20.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Apr-2025 15:43:20.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Apr-2025 15:43:20.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Apr-2025 15:43:20.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+27-Apr-2025 15:43:20.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Apr-2025 15:43:20.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\GUI_Netbeans\apache-tomcat-9.0.100
+27-Apr-2025 15:43:20.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\GUI_Netbeans\apache-tomcat-9.0.100
+27-Apr-2025 15:43:20.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\GUI_Netbeans\apache-tomcat-9.0.100\temp
+27-Apr-2025 15:43:20.638 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-21\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\USER\AppData\Local\Microsoft\WindowsApps;C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Users\USER\AppData\Roaming\npm;C:\Users\USER\AppData\Local\GitHubDesktop\bin;.]
+27-Apr-2025 15:43:21.076 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Apr-2025 15:43:21.121 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [798] milliseconds
+27-Apr-2025 15:43:21.217 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Apr-2025 15:43:21.218 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.100]
+27-Apr-2025 15:43:21.232 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\GUI_Netbeans\apache-tomcat-9.0.100\webapps\docs]
+27-Apr-2025 15:43:21.699 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\GUI_Netbeans\apache-tomcat-9.0.100\webapps\docs] has finished in [465] ms
+27-Apr-2025 15:43:21.699 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\GUI_Netbeans\apache-tomcat-9.0.100\webapps\examples]
+27-Apr-2025 15:43:22.646 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\GUI_Netbeans\apache-tomcat-9.0.100\webapps\examples] has finished in [947] ms
+27-Apr-2025 15:43:22.647 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\GUI_Netbeans\apache-tomcat-9.0.100\webapps\host-manager]
+27-Apr-2025 15:43:22.702 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\GUI_Netbeans\apache-tomcat-9.0.100\webapps\host-manager] has finished in [55] ms
+27-Apr-2025 15:43:22.704 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\GUI_Netbeans\apache-tomcat-9.0.100\webapps\manager]
+27-Apr-2025 15:43:22.753 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\GUI_Netbeans\apache-tomcat-9.0.100\webapps\manager] has finished in [48] ms
+27-Apr-2025 15:43:22.753 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\GUI_Netbeans\apache-tomcat-9.0.100\webapps\ROOT]
+27-Apr-2025 15:43:22.792 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\GUI_Netbeans\apache-tomcat-9.0.100\webapps\ROOT] has finished in [39] ms
+27-Apr-2025 15:43:22.799 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Apr-2025 15:43:22.844 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1719] milliseconds
+27-Apr-2025 15:43:23.004 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\GUI_Netbeans\apache-tomcat-9.0.100\conf\Catalina\localhost\BookstoreAPI.xml]
+27-Apr-2025 15:43:23.006 WARNING [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/BookstoreAPI] in deployment descriptor [D:\GUI_Netbeans\apache-tomcat-9.0.100\conf\Catalina\localhost\BookstoreAPI.xml] has been ignored
+27-Apr-2025 15:43:23.072 WARNING [http-nio-8080-exec-6] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+27-Apr-2025 15:43:23.753 INFO [http-nio-8080-exec-6] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Apr-2025 15:43:24.328 WARNING [http-nio-8080-exec-6] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+27-Apr-2025 15:43:24.393 WARNING [http-nio-8080-exec-6] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+27-Apr-2025 15:43:25.047 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\GUI_Netbeans\apache-tomcat-9.0.100\conf\Catalina\localhost\BookstoreAPI.xml] has finished in [2,043] ms
+27-Apr-2025 15:43:25.052 INFO [http-nio-8080-exec-7] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/BookstoreAPI]] after start() had already been called. The second call will be ignored.
+27-Apr-2025 15:44:29.889 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+27-Apr-2025 15:44:29.890 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Apr-2025 15:44:29.896 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Apr-2025 15:44:29.938 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Apr-2025 15:44:29.957 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
